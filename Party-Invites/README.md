@@ -1,5 +1,5 @@
 # Party-Invites
-This is my first ASP.NET Core project. It's a simple party invitetion web site. Home page, registration form and showing attended people which were saved in the static list of objects. (No DB yet). Oh, and there I taste some Bootstrap styles.
+This is my first ASP.NET Core MVC project. It's a simple party invitetion web site. Home page, registration form and showing attended people which were saved in the static list of objects. (No DB yet). Oh, and there I taste some Bootstrap styles.
 
 # Home Page
 There you are allowed to make only one decission.
