@@ -1,0 +1,11 @@
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\bin\Debug\netcoreapp2.0\RazorTestProject.deps.json
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\bin\Debug\netcoreapp2.0\RazorTestProject.runtimeconfig.json
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\bin\Debug\netcoreapp2.0\RazorTestProject.runtimeconfig.dev.json
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\bin\Debug\netcoreapp2.0\RazorTestProject.dll
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\obj\Debug\netcoreapp2.0\RazorTestProject.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\obj\Debug\netcoreapp2.0\RazorTestProject.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\obj\Debug\netcoreapp2.0\RazorTestProject.AssemblyInfoInputs.cache
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\obj\Debug\netcoreapp2.0\RazorTestProject.AssemblyInfo.cs
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\bin\Debug\netcoreapp2.0\RazorTestProject.pdb
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\obj\Debug\netcoreapp2.0\RazorTestProject.dll
+D:\GitHub\ASP.NET-Core\RazorTestProject\RazorTestProject\obj\Debug\netcoreapp2.0\RazorTestProject.pdb
