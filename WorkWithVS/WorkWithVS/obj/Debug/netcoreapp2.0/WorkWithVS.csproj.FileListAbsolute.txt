@@ -1,0 +1,11 @@
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\bin\Debug\netcoreapp2.0\WorkWithVS.deps.json
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\bin\Debug\netcoreapp2.0\WorkWithVS.runtimeconfig.json
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\bin\Debug\netcoreapp2.0\WorkWithVS.runtimeconfig.dev.json
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\bin\Debug\netcoreapp2.0\WorkWithVS.dll
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\obj\Debug\netcoreapp2.0\WorkWithVS.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\obj\Debug\netcoreapp2.0\WorkWithVS.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\obj\Debug\netcoreapp2.0\WorkWithVS.AssemblyInfoInputs.cache
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\obj\Debug\netcoreapp2.0\WorkWithVS.AssemblyInfo.cs
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\bin\Debug\netcoreapp2.0\WorkWithVS.pdb
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\obj\Debug\netcoreapp2.0\WorkWithVS.dll
+D:\GitHub\ASP.NET-Core\WorkWithVS\WorkWithVS\obj\Debug\netcoreapp2.0\WorkWithVS.pdb
