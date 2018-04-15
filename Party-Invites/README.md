@@ -17,4 +17,3 @@ There you are allowed to make only one decission.
 
 # List of Invited Peoples
 ![viewoninvitedpeaplepage](https://user-images.githubusercontent.com/24496601/37935773-780fdbc6-315b-11e8-8117-d38b37993e44.png)
-
