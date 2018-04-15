@@ -14,6 +14,6 @@ namespace SportsStore.Models
             context = ctx;
         }
 
-        public IEnumerable<Product> Products => context.Products;
+        public IQueryable<Product> Products => context.Products;
     }
 }
